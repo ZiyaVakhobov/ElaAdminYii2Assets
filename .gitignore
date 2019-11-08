@@ -1,0 +1,6 @@
+vendor
+composer.lock
+.idea
+index.php
+src/assets/dist/.gitignore
+src/assets/dist/.git
