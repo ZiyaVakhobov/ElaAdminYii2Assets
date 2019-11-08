@@ -11,7 +11,7 @@ use yii\web\YiiAsset;
 
 class ElaAdminWebAssets extends AssetBundle
 {
-    public $sourcePath = '@vendor/ziya/elaadmin_yii2/src/assets/dist/assets';
+    public $sourcePath = '@vendor/ziya/elaadmin_yii2/src/assets/eladmin/assets';
 
     public $css =[
         'https://cdn.jsdelivr.net/npm/normalize.css@8.0.0/normalize.min.css',
